@@ -1,0 +1,32 @@
+a:hover{
+    text-decoration: none;
+}
+.asteriskField {
+    display: none;
+}
+.navbar-brand{
+    color: #FF8833;
+    font-family: 'Lobster Two', cursive;}
+.page-header {
+    background-color: #C25100;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+}
+
+.page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
+    color: #ffffff;
+    font-size: 36pt;
+    text-decoration: none;
+}
+h1{
+    font-family: 'Lobster', cursive;
+}
+.limit-ch{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.top-menu, .top-menu:hover, .top-menu:visited {
+    color: #ffffff;
+    font-size: 26pt;
+}

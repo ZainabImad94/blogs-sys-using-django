@@ -1,0 +1,13 @@
+.bg-signup {
+  background-image: url(../images/geometric-leaves.png);
+
+}
+.asteriskField {
+    display: none;
+}
+.bg-logout{
+    background-image: url(../images/geometric-leaves.png);
+}
+.fix-m{
+    margin-bottom: 400px;
+}
